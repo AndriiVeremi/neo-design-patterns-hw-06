@@ -8,8 +8,11 @@
         "start": "ts-node src/main.ts"
     },
     "devDependencies": {
-        "typescript": "^5.0.0",
-        "ts-node": "^10.9.1",
-        "@types/node": "^18.0.0"
-    }
+        "@types/node": "^18.19.116",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.3"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
 }
